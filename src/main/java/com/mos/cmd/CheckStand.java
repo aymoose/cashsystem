@@ -5,13 +5,7 @@ import com.mos.cmd.command.impl.AbstractCommand;
 import com.mos.cmd.command.impl.Commands;
 import com.mos.entity.Account;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GAOBO
- * Date: 2019-06-28
- * Time: 18:25
- */
+
 public class CheckStand extends AbstractCommand {
 
     public static void main(String[] args) {
